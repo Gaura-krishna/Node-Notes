@@ -1,0 +1,13 @@
+
+
+pre-define variables in node
+
+require: "this is used to import files in node"
+
+module.exports:"this is used to exports files in node "
+
+
+
+//Modules
+Modules are just like react components, means code is didvided into pieces 
+there are pre-define modules in nodes such as "path","fs" , "__dirname":-getting foldername , "__filename":-getting filename,"extname":-getting extenstion name,
